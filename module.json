@@ -11,7 +11,7 @@
     }
   ],
   "esmodules": [
-    "script/swarm.mjs"
+    "script/main.mjs"
   ],
   "url": "https://github.com/oOve/Dr.O_o.5e",
   "download": "https://github.com/oOve/Dr.O_o.5e/archive/10.0.1.zip",
