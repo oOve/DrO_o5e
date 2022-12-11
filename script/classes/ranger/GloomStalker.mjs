@@ -73,7 +73,7 @@ function isTokenInDarkness(token){
     return Math.abs(dff)<l2;
   });
 
-  console.log("Lights:", lights);
+
 
   // Iterate through the lights until we find one without collision  
   for (let l of lights){ 
