@@ -1,7 +1,7 @@
 {
-  "id": "Dr.O_o.5e",
-  "title": "Dr.O_o.5e",
-  "description": "Dr. O_o's 5e macros.",
+  "id": "DrO_o5e",
+  "title": "DrO_o5e",
+  "description": "Dr.O_o's 5e macros.",
   "version": "10.0.1",
   "authors": [
     {
@@ -13,9 +13,9 @@
   "esmodules": [
     "script/main.mjs"
   ],
-  "url": "https://github.com/oOve/Dr.O_o.5e",
-  "download": "https://github.com/oOve/Dr.O_o.5e/archive/10.0.1.zip",
-  "manifest": "https://github.com/oOve/Dr.O_o.5e/releases/latest/download/module.json",
+  "url": "https://github.com/oOve/DrO_o5e",
+  "download": "https://github.com/oOve/DrO_o5e/archive/10.0.1.zip",
+  "manifest": "https://github.com/oOve/DrO_o5e/releases/latest/download/module.json",
   "socket": false,
   "relationships": {
     "requires": [
