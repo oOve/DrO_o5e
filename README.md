@@ -1,2 +1,2 @@
-# Dr.O_o_5e
+# Dr.O_o.5e
 Macros for varying 5e classes
